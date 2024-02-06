@@ -4,7 +4,6 @@ import { Button } from "tamagui";
 
 export default function Layout() {
   const router = useRouter();
-
   return (
     <Tabs>
       <Tabs.Screen
